@@ -18,3 +18,4 @@ The frontend is quite beautiful and well organized.
 
 <img width="526" alt="Screenshot 2024-05-24 195702" src="https://github.com/VigneshPonnam/contacts_charts/assets/107788042/3537dad6-5d97-4521-9438-2c49f38c913a">
 
+<img width="584" alt="Screenshot 2024-05-24 201302" src="https://github.com/VigneshPonnam/contacts_charts/assets/107788042/fabe7d7b-7f02-4bf0-9131-8d4a0c3a29a5">
