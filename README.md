@@ -4,8 +4,7 @@ Prior to running the actual application, run the backend code using a python too
 Insert some data, i.e., contacts, such that, the frontend can get updated. 
 If the user wants to delete a contact, click on more and then click delete. Result can be updated on the UI.
 To see the charts, click on "charts".
-The frontend is quite beautiful and well organized. 
-<img width="534" alt="Screenshot 2024-05-24 195838" src="https://github.com/VigneshPonnam/contacts_charts/assets/107788042/f7b3a7dd-32d8-449f-b491-e2566851a5b3">
+The frontend is quite beautiful and well organized.
 
 <img width="913" alt="Screenshot 2024-05-24 195747" src="https://github.com/VigneshPonnam/contacts_charts/assets/107788042/d0eb8068-62f7-4bae-808a-6ebfe6983f3a">
 
